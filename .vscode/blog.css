@@ -1,0 +1,32 @@
+.estilo1 {
+    color: red;
+    font-size: 14px;
+  }
+  
+  .estilo2 {
+    font-weight: bold;
+    color: blue;
+    text-decoration: underline;
+  }
+
+
+
+
+
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Este es mi blog</title>
+    <link rel="stylesheet" type="text/css" href="blog.css">
+</head>
+
+<body>
+    <p class="estilo1">Hola soy un párrafo con estilo 1</p>
+    <p class="estilo2">Hola soy un párrafo con estilo 2</p>
+</body>
+
+</html>
